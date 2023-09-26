@@ -33,3 +33,83 @@ Values
       - Combination of text with special chracter
 
 Based on Value, datatype will be decided
+
+
+values
+------
+
+numeric value without decimal (46,-90,0) ----> int datatype
+numeric value with decimal (12.45, -18.28) -----> float datatype
+
+Non Numerical
+-------------
+Text ---> True & False                                      -----------> Boolean data type (bool)
+any text                                                    -----------> string            (str)
+
+Ex: "Bhavya"
+    "bhavya123"
+    "B !@"
+
+variables
+---------
+
+- Variable are used for storing values & is a location in memory
+- in python, variable are Dynamic (We don't even have to declare the type of the variable).
+- The declaration of data type happens automatically when you assign a value to a variable.
+
+Declaring variables
+-------------------
+
+- The equal sign(=) is used to assign values to variables
+                        x = 1
+                       var  val
+
+
+variable : used to store a value in a object
+        variable, functions, modules, libraries
+        print("Hello")
+
+Name = identifier
+
+Rules of Identifiers (Syntax)
+-----------------------------
+
+Rule 1: A variable name must start with a letter (a-z, A-Z) or the underscore chracter (_).
+Rule 2: A variable accepts only underscore _ symbol only (No other symbol is accepted)
+Rule 3: A variable name cannot start with a number
+Rule 4: A variable name can contain combination of alphanumeric chracter and underscores 
+Rule 5: Variable names are case sensitive (age, Age and AGE are three different variables)
+Rule 6: It can't accept reserve/keywords
+
+List of keyword: ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+
+to store multiple Values
+------------------------
+        list
+        tuple
+        set
+        dict
+
+
+variables
+---------
+    - Variable
+    - Rules of naming a variable    
+    - variable assignment
+        - Single variable assignment
+        - Multiple variable assignment
+    - Delete the variable
+        - Deletion of a single variable
+        - Deletion of a mutiple variable 
+
+
+
+Output in python          --->   print()
+----------------     
+
+print a single value
+print a multiple value
+print a single varibale 
+print a multiple variable
+print(combination of values & variables)
