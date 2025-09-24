@@ -1,0 +1,21 @@
+Python introduction
+
+    - Advantages and Disadvantages of Python
+    - Application of Python
+    - Intallation of Python
+    - Various Option to execute Python
+        - Python command prompt
+        - idle (integrated develop learning enviroment)
+        - editor window & console window within idle
+
+    With ide : (integrated development enviroment)
+    - Intallation of Anaconda
+    - various IDE
+        - Spyder
+        - Jupyter Notebook
+        - Visual studio code
+        - Pycharm
+        - Atom
+    - Select as per you choice, whill you will easy
+
+    
