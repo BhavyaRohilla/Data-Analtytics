@@ -18,4 +18,18 @@ Python introduction
         - Atom
     - Select as per you choice, whill you will easy
 
-    
+
+Day - 1
+
+Values
+
+- Generally Value will be of
+    - Numeric
+      - Without decimals (Ex: 9,120,24000)
+      - With decimals (Ex: 10.234, 1.02)
+    - Non Numeric (Text)
+      - Only Text
+      - Combination of text with Numeric
+      - Combination of text with special chracter
+
+Based on Value, datatype will be decided
