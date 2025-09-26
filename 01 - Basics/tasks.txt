@@ -103,7 +103,7 @@ variables
         - Deletion of a single variable
         - Deletion of a mutiple variable 
 
-
+ 
 
 Output in python          --->   print()
 ----------------     
