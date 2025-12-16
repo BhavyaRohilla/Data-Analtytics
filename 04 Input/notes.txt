@@ -1,0 +1,6 @@
+variable = value
+variable = ask user to enter the value
+name = "Bhavya"
+
+variable = value(you enter directly)
+variable = ask user to enter the value

@@ -1,0 +1,30 @@
+Python
+------
+
+Data type assigned automatically based on value ---> Dynamic Programming
+u can store a single value in a object ---->   fundamental data type
+
+integer (int) ---> will store single value of numerical data with no decimal
+float (float) ---> will store single value of numerical data with decimal'
+complex (complex)  --> will store a single value of numerical data with imaginary part
+boolean (bool) --> will store single value of True or False
+string (str) ---> other than above " "
+                    combination of multiple chracter (text, numeric, special chracter)
+
+
+u can store multiple value in a object   ----->    Advanced data types or container
+
+interview question : 
+
+- can a string can be converted to int?
+yes, if string consist of all chracter as numbers. otherwise no
+
+In python, first right side part will be executed & followed by left side variable assigned
+In python, when we have multiple (), inner bracket is executed is executed first ->  function Programming
+
+
+u can store a multiple values in a object --->  Advanced Data Types or Containers
+list
+tuple
+set
+dictionary
